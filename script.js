@@ -17,7 +17,7 @@ function getAnswer(){
         alert("Isosceles Triangle");
     }
 
-    else if(sideA + sideB > sideC || sideA + sideC > sideB || sideB + sideC > sideA) {
+    else if(sideA + sideB <= sideC || sideA + sideC <= sideB || sideB + sideC <= sideA) {
         alert("Scalene Triangle");
     }
 
