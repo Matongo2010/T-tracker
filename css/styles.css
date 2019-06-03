@@ -17,8 +17,13 @@ button{
     position: absolute;
     top: 80%;
     left: 45%;
+    size: 70%
 }
 
 h1,h2,h3{
     color: black
+}
+
+#click{
+    font-size: x-large;
 }
