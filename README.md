@@ -23,7 +23,11 @@ Adriano Meroka.
 
 ### BEHAVIOUR DRIVEN DEVELOPMENT
 
-
-
+|Behaviour | input | output|
+|--------- |-----|------|
+|Three values which are equal | 3,3,3 | Equilateral triangle |
+|Two sides which are equal and one unequal side | 2,5,2 | Isosceless triangle |
+|Two sides with values when added are equal or less than the 3rd side | 2,4,7 | Scalene triangle |
+| Any side with 0 value | 4,0,5 | invalid |
 
 
